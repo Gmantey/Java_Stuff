@@ -1,0 +1,15 @@
+input
+Alotofdifferentcharacterstogrouptogether
+inputEnd
+
+description
+Short String with multiple repetitive characters. 
+descriptionEnd
+
+error
+Error in grouping characters.
+errorEnd
+
+out
+Alooooottttttfffdieeeeerrrrrncchhaasggup
+outEnd

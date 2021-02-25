@@ -1,0 +1,61 @@
+#!/bin/bash
+
+studentCode=StringSum
+
+#####################################
+
+(javac *.java) || exit 1
+
+maxTestCases=`ls localTests/* | grep "Test" -c`  #Sets max Testcases based on number of testX files in asnlib
+
+for currTestCase in `seq 1 $maxTestCases`   #Loops through all test Cases
+do    
+    sed -n '/input/,/inputEnd/{/input/b;/inputEnd/b;p}' localTests/localTest$currTestCase | timeout 10 java $studentCode > out.test #Extracts Testcase inputs and pipes into student code
+
+    exitStatus=$?
+
+    sed -n '/out/,/outEnd/{/out/b;/outEnd/b;p}' localTests/localTest$currTestCase > outSol.test  #Extracts Testcase inputs and pipes into Solution code    
+
+    echo ====================Test$currTestCase====================
+
+    sed -n '/description/,/descriptionEnd/{/description/b;/descriptionEnd/b;p}' localTests/localTest$currTestCase        #Displays Description Text
+
+if [[ $exitStatus -eq 124 ]]; then
+    printf "\nTest$currTestCase>>>Failed\n\n"
+    echo "You have an Infinite Loop!"
+    echo 
+    continue
+fi
+
+    cat outSol.test | tr A-Z a-z | tr -d ' \n\r' > SolutionClean.test
+    sed "s/^[ \t]*//" -i SolutionClean.test
+    sed '/^[[:space:]]*$/d' -i SolutionClean.test
+
+    cat out.test | tr A-Z a-z | tr -d ' \n\r' >  SubmissionClean.test
+    sed "s/^[ \t]*//" -i SubmissionClean.test
+    sed "s/[ \t]*$//" -i SubmissionClean.test
+    sed '/^[[:space:]]*$/d' -i SubmissionClean.test
+
+    cat outSol.test > testOut$currTestCase.test
+
+    git diff --word-diff=plain --word-diff-regex=[^[:space:]] -U0 SolutionClean.test SubmissionClean.test > diff.out
+    if [ $? -lt 1 ]
+    then 
+        
+        printf "\nTest$currTestCase>>>Passed +$points\n\n"
+
+    else
+        
+        printf "\nTest$currTestCase>>>Failed\n\n"
+        sed -n '/error/,/errorEnd/{/error/b;/errorEnd/b;p}' localTests/localTest$currTestCase                            #Displays Error Text
+
+        cat out.test | tr A-Z a-z > outClean.test
+        cat outSol.test | tr A-Z a-z > outSolClean.test
+        git diff --word-diff=plain --word-diff-regex=[^[:space:]] -U0 outSolClean.test outClean.test
+    fi
+done
+
+
+
+rm -f out.txt
+rm -f *.class *.test *.out   

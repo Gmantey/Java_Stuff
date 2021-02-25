@@ -1,0 +1,16 @@
+input
+\n
+inputEnd
+
+description
+null input 
+descriptionEnd
+
+error
+Error in printing -1 for null input
+errorEnd
+
+out
+-1
+outEnd
+

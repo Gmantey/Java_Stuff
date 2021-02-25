@@ -1,0 +1,15 @@
+input
+abc
+inputEnd
+
+description
+Print the number of digits in a String with no digits.
+descriptionEnd
+
+error
+Error in printing the correct number of digits. 
+errorEnd
+
+out
+0
+outEnd

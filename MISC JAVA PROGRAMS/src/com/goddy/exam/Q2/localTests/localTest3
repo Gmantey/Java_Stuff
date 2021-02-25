@@ -1,0 +1,20 @@
+input
+6
+inputEnd
+
+description
+Printing a Triangle with Base 6
+descriptionEnd
+
+error
+Error in printing a triangle with base size 6. 
+errorEnd
+
+out
+******
+ *****
+  ****
+   ***
+    **
+     *
+outEnd

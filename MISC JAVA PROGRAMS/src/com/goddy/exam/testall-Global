@@ -1,0 +1,25 @@
+#!/bin/bash
+
+rm -r ~/Midterm1-Practice &> /dev/null
+
+mkdir ~/Midterm1-Practice
+mkdir ~/Midterm1-Practice/Q1
+mkdir ~/Midterm1-Practice/Q2
+mkdir ~/Midterm1-Practice/Q3
+mkdir ~/Midterm1-Practice/Q4
+mkdir ~/Midterm1-Practice/Q5
+
+total=0
+questionScore=0
+printf "\n_______________________________________\n"
+for question in `seq 1 5`
+do
+	cd Q$question
+    cp *.java ~/Midterm1-Practice/Q$question
+    echo "TESTING Q$question"
+	./testall
+	cd ..
+
+done
+
+printf "\n\nMIDTERM SAVED & SUBMITED\n"

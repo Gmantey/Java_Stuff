@@ -1,0 +1,16 @@
+input
+A
+inputEnd
+
+description
+Single character input. 
+descriptionEnd
+
+error
+Error in adding ASCII values for single character. 
+errorEnd
+
+out
+65
+outEnd
+

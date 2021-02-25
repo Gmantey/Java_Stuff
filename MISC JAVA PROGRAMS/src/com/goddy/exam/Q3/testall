@@ -1,0 +1,45 @@
+#!/bin/bash
+
+studentCode=OddOrEven
+
+
+#####################################
+runtest(){
+
+timeout 10 java tester $2 $3 > out.test 
+exitStatus=$?
+if [[ $exitStatus -eq 124 ]]; then
+    printf "\nTest$1>>>Failed\n\n"
+    echo "You have an Infinite Loop!"
+    echo 
+    return
+fi
+
+student=`cat out.test`
+solution=$4
+
+echo ====================Test$1====================
+
+if [ "$student" = "$solution" ]
+     then
+	printf "\nTest$1>>>Passed +$points\n\n"
+     else
+     	printf "\nTest$1>>>Failed \nStudent : $student\nSolution: $solution\n"
+fi
+
+
+}
+#####################################
+cp localTests/tester.java .
+(javac *.java) || exit 1
+
+
+runtest 1 17 22 false
+
+runtest 2 51 3 true
+
+runtest 3 100 0 true
+
+
+rm -f out.txt
+rm -f *.class *.test *.out tester.java

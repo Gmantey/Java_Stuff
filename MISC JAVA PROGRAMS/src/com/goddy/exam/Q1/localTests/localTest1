@@ -1,0 +1,16 @@
+input
+1
+inputEnd
+
+description
+Print the number of digits in a String with only 1 digit. 
+descriptionEnd
+
+error
+Error in printing the correct number of digits. 
+errorEnd
+
+out
+1
+outEnd
+

@@ -1,0 +1,16 @@
+input
+abcabc
+inputEnd
+
+description
+Short String with multiple repetitive characters. 
+descriptionEnd
+
+error
+Error in grouping characters.
+errorEnd
+
+out
+aabbcc
+outEnd
+

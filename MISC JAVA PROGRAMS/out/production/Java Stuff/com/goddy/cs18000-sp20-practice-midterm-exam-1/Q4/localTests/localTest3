@@ -1,0 +1,16 @@
+input
+The third local test
+inputEnd
+
+description
+Long String input. 
+descriptionEnd
+
+error
+Error in adding ASCII values for a long String. 
+errorEnd
+
+out
+1895
+outEnd
+

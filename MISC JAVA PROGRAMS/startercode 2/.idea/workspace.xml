@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75ba9207-90b2-4ca1-be85-1d2aa6d287eb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aCRzmRlMZZYC7p7OXkcZ5Qgfi2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ComputerRunner">
+    <configuration name="ComputerRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComputerRunner" />
+      <module name="startercode 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperatingSystemRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperatingSystemRunner" />
+      <module name="startercode 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockManipulatorRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StockManipulatorRunner" />
+      <module name="startercode 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockManipulatorRunner$StockManipulatorPublicTest.testArray5_fixReadStocks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="startercode 2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StockManipulatorRunner$StockManipulatorPublicTest" />
+      <option name="METHOD_NAME" value="testArray5_fixReadStocks" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockManipulatorRunner$StockManipulatorPublicTest.test_Exception1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="startercode 2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StockManipulatorRunner$StockManipulatorPublicTest" />
+      <option name="METHOD_NAME" value="test_Exception1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ComputerRunner" />
+        <item itemvalue="Application.OperatingSystemRunner" />
+        <item itemvalue="Application.StockManipulatorRunner" />
+        <item itemvalue="JUnit.StockManipulatorRunner$StockManipulatorPublicTest.test_Exception1" />
+        <item itemvalue="JUnit.StockManipulatorRunner$StockManipulatorPublicTest.testArray5_fixReadStocks" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75ba9207-90b2-4ca1-be85-1d2aa6d287eb" name="Default Changelist" comment="" />
+      <created>1586237853198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586237853198</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1586241158899">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1440.900@0.0.1440.900" timestamp="1586241158899" />
+    <state x="456" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586262636520">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="456" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1586262636520" />
+    <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser" timestamp="1586271090531">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1586271090531" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1586273131742">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586273131742" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1586273131741">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586273131741" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1586273131740">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586273131740" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1586273131742">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586273131742" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1586273131744">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586273131744" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1586273131743">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1586273131743" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1586273131743">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1586273131743" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1586273131744">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1586273131744" />
+    <state x="432" y="353" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586237873686">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="432" y="353" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.900@0.0.1440.900" timestamp="1586237873686" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1586261663995">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1586261663995" />
+  </component>
+</project>

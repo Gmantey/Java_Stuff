@@ -1,0 +1,16 @@
+input
+1
+inputEnd
+
+description
+Printing a Triangle with Base 1
+descriptionEnd
+
+error
+Error in printing a triangle with base size 1. 
+errorEnd
+
+out
+*
+outEnd
+

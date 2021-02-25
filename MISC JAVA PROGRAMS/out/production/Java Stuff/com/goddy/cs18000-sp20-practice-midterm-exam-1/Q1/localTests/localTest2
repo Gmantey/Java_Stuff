@@ -1,0 +1,17 @@
+input
+abc123
+inputEnd
+
+description
+Print the number of digits in a String with characters and digits.
+descriptionEnd
+
+error
+Error in printing the correct number of digits. 
+errorEnd
+
+out
+3
+outEnd
+
+

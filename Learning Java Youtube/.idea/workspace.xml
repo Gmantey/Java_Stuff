@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af3405e8-d945-4258-86c8-b203028ebdcb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dzzlmyOzAatM8fiBGvQrOfhmOq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="Learning Java Youtube" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fileio (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fileio" />
+      <module name="Learning Java Youtube" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fileio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Episode3_Problems.Fileio" />
+      <module name="YoutubeJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Episode3_Problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Server" />
+      <module name="Learning Java Youtube" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleGui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleGui" />
+      <module name="Learning Java Youtube" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example4.Test" />
+      <module name="Learning Java Youtube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Episode3_Problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.SimpleGui" />
+        <item itemvalue="Application.Fileio (1)" />
+        <item itemvalue="Application.Fileio" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af3405e8-d945-4258-86c8-b203028ebdcb" name="Default Changelist" comment="" />
+      <created>1592859801359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592859801359</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2268" y="-281" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1595620393936">
+      <screen x="1440" y="-589" width="1920" height="1057" />
+    </state>
+    <state x="2268" y="-281" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.877/1440.-589.1920.1057@1440.-589.1920.1057" timestamp="1595620393936" />
+    <state x="1864" y="-397" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595724520639">
+      <screen x="1440" y="-589" width="1920" height="1057" />
+    </state>
+    <state x="1864" y="-397" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/1440.-589.1920.1057@1440.-589.1920.1057" timestamp="1595724520639" />
+    <state x="537" y="-887" key="#com.intellij.ide.util.MemberChooser" timestamp="1595524357262">
+      <screen x="-174" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="533" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1593699876619" />
+    <state x="537" y="-887" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877/-174.-1057.1920.1057@-174.-1057.1920.1057" timestamp="1595524357262" />
+    <state width="1878" height="486" key="GridCell.Tab.0.bottom" timestamp="1595725494732">
+      <screen x="1440" y="-589" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593715394535" />
+    <state width="1878" height="289" key="GridCell.Tab.0.bottom/0.23.1440.877/-174.-1057.1920.1057@-174.-1057.1920.1057" timestamp="1595524683631" />
+    <state width="1878" height="486" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-589.1920.1057@1440.-589.1920.1057" timestamp="1595725494732" />
+    <state width="1878" height="2" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1595711138963" />
+    <state width="1878" height="486" key="GridCell.Tab.0.center" timestamp="1595725494731">
+      <screen x="1440" y="-589" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1593715394534" />
+    <state width="1878" height="289" key="GridCell.Tab.0.center/0.23.1440.877/-174.-1057.1920.1057@-174.-1057.1920.1057" timestamp="1595524683629" />
+    <state width="1878" height="486" key="GridCell.Tab.0.center/0.23.1440.877/1440.-589.1920.1057@1440.-589.1920.1057" timestamp="1595725494731" />
+    <state width="1878" height="2" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1595711138963" />
+    <state width="1878" height="486" key="GridCell.Tab.0.left" timestamp="1595725494731">
+      <screen x="1440" y="-589" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1593715394534" />
+    <state width="1878" height="289" key="GridCell.Tab.0.left/0.23.1440.877/-174.-1057.1920.1057@-174.-1057.1920.1057" timestamp="1595524683628" />
+    <state width="1878" height="486" key="GridCell.Tab.0.left/0.23.1440.877/1440.-589.1920.1057@1440.-589.1920.1057" timestamp="1595725494731" />
+    <state width="1878" height="2" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1595711138962" />
+    <state width="1878" height="486" key="GridCell.Tab.0.right" timestamp="1595725494731">
+      <screen x="1440" y="-589" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1593715394535" />
+    <state width="1878" height="289" key="GridCell.Tab.0.right/0.23.1440.877/-174.-1057.1920.1057@-174.-1057.1920.1057" timestamp="1595524683630" />
+    <state width="1878" height="486" key="GridCell.Tab.0.right/0.23.1440.877/1440.-589.1920.1057@1440.-589.1920.1057" timestamp="1595725494731" />
+    <state width="1878" height="2" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1595711138963" />
+    <state x="231" y="135" key="SettingsEditor" timestamp="1593530213510">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="231" y="135" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1593530213510" />
+    <state x="374" y="280" key="com.intellij.ide.util.TipDialog" timestamp="1595522836930">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="374" y="280" key="com.intellij.ide.util.TipDialog/0.0.1440.900/-174.-1080.1920.1080@0.0.1440.900" timestamp="1595522836930" />
+    <state x="374" y="280" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1593699230170" />
+    <state x="374" y="296" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1593527929488" />
+  </component>
+</project>
